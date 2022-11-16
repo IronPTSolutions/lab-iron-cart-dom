@@ -58,6 +58,7 @@ table input[type='number'] {
 
 .btn-remove {
   background-color: #f27471;
+  width: 100%;
 }
 
 h1,
